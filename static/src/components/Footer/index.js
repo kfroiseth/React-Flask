@@ -16,7 +16,7 @@ export const Footer = () =>
                   <li><a href="/Logout" target="_self">Logout</a></li>
                 </ul>
                 <div className="col-md-6 hidden-xs hidden-sm">
-				          <span>©2018</span> <a href="#">Sample React-Redux-Flask Template 
+				          <span>©2018</span> <a href="#">Sample React-Redux-Flask Template</a> 
 			          </div>
                 </div>
             </div>
